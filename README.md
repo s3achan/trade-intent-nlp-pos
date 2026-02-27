@@ -119,29 +119,6 @@ Engineered features include:
 -   N-grams
 -   Token length statistics
 
-------------------------------------------------------------------------
-
-### 5️⃣ Model Training
-
-Models evaluated:
-
--   Logistic Regression
--   Random Forest
--   Gradient Boosting
--   XGBoost (optional)
-
-**Evaluation Metrics** - Accuracy - Precision - Recall - F1 Score -
-Confusion Matrix
-
-------------------------------------------------------------------------
-
-## 📦 Installation
-
-``` bash
-git clone https://github.com/yourusername/stock-intent-nlp.git
-cd stock-intent-nlp
-pip install -r requirements.txt
-```
 
 ------------------------------------------------------------------------
 
